@@ -71,6 +71,8 @@
 
 ## 41	웨더인포
 - 날씨에 따른 옷 코디 추천 Android App
+- [GitHub Link](https://github.com/redJuzp/CapstoneDesign)
+- 홍주표, 김예찬, 이희진, 
 - 지도교수:	박승현
 
 ## 42	이터
